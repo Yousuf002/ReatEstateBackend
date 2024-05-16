@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Dependency directories
+**/node_modules/
+**/bower_components/
+
+# Environment variables
+.env
+
+# Built files
+build/
+dist/
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Application configuration files
+config.js
